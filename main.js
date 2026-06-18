@@ -1,2 +1,3 @@
 const NAME = `Pawan`;
-console.log(`moo, ${NAME}!`);
+const {name} = require("./moo.js")
+console.log(`${name}, ${NAME}!`);
