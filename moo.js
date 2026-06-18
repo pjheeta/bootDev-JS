@@ -1,4 +1,2 @@
-const name = 'moo';
-module.exports = {
-    name
-};
+export const name = 'moo';
+

@@ -1,3 +1,3 @@
 const NAME = `Pawan`;
-const {name} = require("./moo.js")
+import{name} from "./moo.js";
 console.log(`${name}, ${NAME}!`);
